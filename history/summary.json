@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1286,
+    "time": 1294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1550,
+    "timeYear": 1268,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/frozenyogurt.scriptedev.repl.co.ico",
     "slug": "frozen-yogurt",
     "status": "down",
-    "uptime": "15.47%",
+    "uptime": "15.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1011,
+    "time": 1016,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3175,
+    "timeYear": 3018,
     "dailyMinutesDown": {
-      "2023-06-17": 101,
+      "2023-06-18": 118,
+      "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -397,8 +398,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 1440,
-      "2022-06-18": 1440
+      "2022-06-19": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.boltdev.tk.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "40.84%",
+    "uptime": "40.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 416,
+    "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-17": 101,
+      "2023-06-18": 118,
+      "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -781,8 +782,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 1440,
-      "2022-06-18": 1440
+      "2022-06-19": 1440
     }
   }
 ]
